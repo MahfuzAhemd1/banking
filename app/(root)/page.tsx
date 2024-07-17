@@ -3,7 +3,7 @@ import React from 'react'
 import TotalBalanceBox from '@/components/TotalBalanceBox'
 
 const Home = () => {
-  const loggedIn = { firstName:'Sornir'}
+  const loggedIn = { firstName:'Sornir',}
   return (
     <section className="home">
        <div className="home-content">
